@@ -3,13 +3,14 @@
 ## Установка vagrant
 
 Скачать и поставить [vagrant](https://www.vagrantup.com/)
+
 Скачать и поставить [virtualbox](https://www.virtualbox.org/)
 
 Для убунты и других линуксов есть соответствующие пакеты
 
 ## Загрузка бокса
 
-`vagrant bot add vlc_streamer vlc_streamer.box`
+`vagrant box add vlc_streamer vlc_streamer.box`
 
 ## Запуск стриминга
 
