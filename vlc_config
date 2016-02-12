@@ -1,0 +1,6 @@
+new ador broadcast enabled
+
+setup ador input "file:///vagrant/video_ador1_194_20151201_10-48.avi" loop
+setup ador output #rtp{sdp=rtsp://0.0.0.0:5554/ador} loop
+
+control ador play
