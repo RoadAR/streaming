@@ -1,5 +1,5 @@
 Vagrant.configure(2) do |config|
-  config.vm.box = "terrywang/archlinux"
+  config.vm.box = "vlc_streamer"
   config.vm.synced_folder ".", "/vagrant"
 
   config.vm.network "forwarded_port", guest: 5554, host: 5554

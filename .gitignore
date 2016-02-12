@@ -1,3 +1,5 @@
 .vagrant/
 gstreamer_rtsp/.vagrant
 .o
+*.avi
+*.box
