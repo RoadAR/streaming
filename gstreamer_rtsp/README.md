@@ -1,4 +1,4 @@
-# VLC rtsp streamer
+# Gstreamer rtsp streamer
 
 ## Установка vagrant
 
